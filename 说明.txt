@@ -1,0 +1,20 @@
+<html?xmlns="http://www.w3.org/1999/xhtml"><br data-filtered="filtered">
+<head><br data-filtered="filtered">
+<title></title><br data-filtered="filtered">
+<meta?http-equiv="Content-Type"?content="text/html;charset=utf-8"><br data-filtered="filtered">
+<style?type="text/css"><br data-filtered="filtered">
+*{padding:0;margin:0;}<br data-filtered="filtered">
+.con{width:1000px;margin:0?auto;border:1px?solid?#ccc;padding:10px?0;}<br data-filtered="filtered">
+.con:after{clear:both;display:block;width:0;height:0;content:""}<br data-filtered="filtered">
+.pic{width:200px;height:200px;float:left;border:1px?solid?#ccc}<br data-filtered="filtered">
+.pic?img{width:100px;height:80px;}<br data-filtered="filtered">
+.cent{float:left;width:700px;margin-left:90px;}<br data-filtered="filtered">
+</style><br data-filtered="filtered">
+</head><br data-filtered="filtered">
+<body><br data-filtered="filtered">
+<div?class="con"><br data-filtered="filtered">
+????<div?class="pic"><img?src="http://t2.baidu.com/it/u=2954215716,2529633670&fm=24&gp=0.jpg"?alt="猫"></div><br data-filtered="filtered">
+????<div?class="cent"><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p><p>文本文本</p></div><br data-filtered="filtered">
+</div><br data-filtered="filtered">
+</body><br data-filtered="filtered">
+</html>
