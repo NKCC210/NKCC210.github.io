@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="340575c7-b4f6-4238-bd1c-8d36cc6b3e37" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gallery_3_col.html" afterPath="$PROJECT_DIR$/gallery_3_col.html" />
-    </list>
+    <list default="true" id="340575c7-b4f6-4238-bd1c-8d36cc6b3e37" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +24,8 @@
       <file leaf-file-name="gallery_3_col.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery_3_col.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="212" column="73" lean-forward="true" selection-start-line="212" selection-start-column="73" selection-end-line="212" selection-end-column="73" />
+            <state relative-caret-position="239">
+              <caret line="493" column="136" lean-forward="true" selection-start-line="493" selection-start-column="136" selection-end-line="493" selection-end-column="136" />
               <folding />
             </state>
           </provider>
@@ -258,16 +256,15 @@
       <workItem from="1569245069959" duration="1114000" />
       <workItem from="1569246959528" duration="880000" />
       <workItem from="1569385098317" duration="289000" />
-      <workItem from="1624611701666" duration="110000" />
+      <workItem from="1624611701666" duration="429000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14065000" />
+    <option name="totallyTimeSpent" value="14384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -674,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery_3_col.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="212" column="73" lean-forward="true" selection-start-line="212" selection-start-column="73" selection-end-line="212" selection-end-column="73" />
+        <state relative-caret-position="239">
+          <caret line="493" column="136" lean-forward="true" selection-start-line="493" selection-start-column="136" selection-end-line="493" selection-end-column="136" />
           <folding />
         </state>
       </provider>
